@@ -12,11 +12,11 @@
 
 - B.Tech CSE (AI & ML) - Sphoorthy Engineering College, 2nd Year
 - - Building GestureVision_X - control your PC with hand gestures
-  - - Building LEARNIX-AI - AI-powered student helper
-    - - Learning Deep Learning, Python, Data Structures & Algorithms
-      - - Passionate about Computer Vision and AI/ML
-        - - Portfolio: https://MohammedShakib-645.github.io/portfolio
-          - - Email: 5645mohammedshakib@gmail.com
+- - Building LEARNIX-AI - AI-powered student helper
+- - Learning Deep Learning, Python, Data Structures & Algorithms
+- - Passionate about Computer Vision and AI/ML
+- - Portfolio: https://MohammedShakib-645.github.io/portfolio
+- - Email: 5645mohammedshakib@gmail.com
            
             - ---
 
