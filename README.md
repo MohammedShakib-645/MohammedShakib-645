@@ -10,7 +10,7 @@
 
 ### About Me
 
-- B.Tech CSE (AI & ML) - Sphoorthy Engineering College, 1st Year
+- B.Tech CSE (AI & ML) - Sphoorthy Engineering College, 2nd Year
 - - Building GestureVision_X - control your PC with hand gestures
   - - Building LEARNIX-AI - AI-powered student helper
     - - Learning Deep Learning, Python, Data Structures & Algorithms
