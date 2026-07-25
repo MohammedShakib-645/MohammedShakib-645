@@ -1,5 +1,7 @@
 Hi, I'm Mohammed Shakib
 
+![Profile Views](https://komarev.com/ghpvc/?username=MohammedShakib-645&style=flat-square&color=brightgreen&label=Profile+Views)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-shakib-56b28437a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/mohammedshakib123)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://MohammedShakib-645.github.io/portfolio)
