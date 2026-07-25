@@ -1,52 +1,57 @@
-# Hi there, I'm Mohammed Shakib
+# Hi, I'm Mohammed Shakib
 
-**Computer Science student specializing in Artificial Intelligence and Machine Learning**
-Sphoorthy Engineering College | 1st Year B.Tech CSE (AI and ML)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-shakib-56b28437a)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/mohammedshakib123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://MohammedShakib-645.github.io/portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:5645mohammedshakib@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=MohammedShakib-645&style=flat-square&color=0A66C2)
 
 ---
 
 ### About Me
 
-- Studying AI and ML Engineering - passionate about making machines intelligent
-- Currently building GestureVision_X and LEARNIX-AI
-- Learning Deep Learning, Python, and Data Structures
-- I love solving real-world problems through code
-- Reach me at: 5645mohammedshakib@gmail.com
+- B.Tech CSE (AI & ML) - Sphoorthy Engineering College, 1st Year
+- - Building GestureVision_X - control your PC with hand gestures
+  - - Building LEARNIX-AI - AI-powered student helper
+    - - Learning Deep Learning, Python, Data Structures & Algorithms
+      - - Passionate about Computer Vision and AI/ML
+        - - Portfolio: [MohammedShakib-645.github.io/portfolio](https://MohammedShakib-645.github.io/portfolio)
+          - - Email: 5645mohammedshakib@gmail.com
+           
+            - ---
 
----
+            ### Tech Stack
 
-### Tech Stack
+            ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+            ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+            ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+            ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+            ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+            ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+            ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+            ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+            ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-**Languages:** Python | C | JavaScript | HTML | CSS
-**Libraries:** OpenCV | MediaPipe | NumPy | Matplotlib
-**Platforms:** Firebase | Google Cloud | GitHub | Kaggle
+            ---
 
----
+            ### Featured Projects
 
-### Projects
+            | Project | Description | Link |
+            |---------|-------------|------|
+            | GestureVision_X | Real-time hand gesture recognition using Python & OpenCV | [View](https://github.com/MohammedShakib-645/gestureVision_X) |
+            | LEARNIX-AI | AI-powered student helper platform | [View](https://github.com/MohammedShakib-645/LEARNIX-AI) |
+            | Data Structures in C | Stack, Queue and Linked List in C | [View](https://github.com/MohammedShakib-645/ds-using-c) |
+            | Portfolio Website | Personal portfolio - live on GitHub Pages | [Live](https://MohammedShakib-645.github.io/portfolio) |
+            | PPS C Programs | Programming Problem Solving programs in C | [View](https://github.com/MohammedShakib-645/pps-c-programs) |
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [GestureVision_X](https://github.com/5645mohammedshakib/gestureVision_X) | Real-time hand gesture recognition to control your computer | Python, OpenCV |
-| [LEARNIX-AI](https://github.com/5645mohammedshakib/LEARNIX-AI) | AI-powered platform to help students study smarter | JavaScript, Firebase |
-| [Data Structures in C](https://github.com/5645mohammedshakib/ds-using-c) | Clean implementations of Stack, Queue and Linked List | C |
-| [Portfolio](https://github.com/5645mohammedshakib/portfolio) | My personal portfolio website | HTML, CSS, JavaScript |
-| [PPS C Programs](https://github.com/5645mohammedshakib/pps-coding-in-c-language) | Programming Problem Solving lab programs in C | C |
+            ---
 
----
+            ### GitHub Stats
 
-### GitHub Stats
+            ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedShakib-645&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5645mohammedshakib&show_icons=true&theme=default&hide_border=true)
+            ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedShakib-645&layout=compact&theme=default&hide_border=true)
 
----
+            ---
 
-### Connect With Me
-
-- LinkedIn: https://linkedin.com/in/mohammed-shakib-56b28437a
-- Kaggle: https://kaggle.com/mohammedshakib123
-- Email: 5645mohammedshakib@gmail.com
-
----
-
-*Open to internships, collaborations, and learning opportunities*
+            *Open to internships, collaborations and learning opportunities!*
