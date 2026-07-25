@@ -15,7 +15,7 @@
   - - Building LEARNIX-AI - AI-powered student helper
     - - Learning Deep Learning, Python, Data Structures & Algorithms
       - - Passionate about Computer Vision and AI/ML
-        - - Portfolio: [MohammedShakib-645.github.io/portfolio](https://MohammedShakib-645.github.io/portfolio)
+        - - Portfolio: https://MohammedShakib-645.github.io/portfolio
           - - Email: 5645mohammedshakib@gmail.com
            
             - ---
@@ -46,11 +46,9 @@
 
             ---
 
-            ### GitHub Stats
+            ### GitHub Activity
 
-            ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedShakib-645&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-            ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedShakib-645&layout=compact&theme=default&hide_border=true)
+            ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&theme=minimal&hide_border=true&area=true)
 
             ---
 
