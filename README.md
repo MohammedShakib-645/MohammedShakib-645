@@ -9,7 +9,7 @@ Hi, I'm Mohammed Shakib
 
 About Me
 
-- B.Tech CSE AI and ML - Sphoorthy Engineering College, 1st Year
+- B.Tech CSE AI and ML - Sphoorthy Engineering College, 2nd Year
 - Building GestureVision_X - control PC with hand gestures using Python and OpenCV
 - Building LEARNIX-AI - AI-powered student helper platform
 - Learning Deep Learning, Python, Data Structures
