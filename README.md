@@ -34,6 +34,7 @@ About Me
   | LEARNIX-AI | AI-powered student helper platform | [View](https://github.com/MohammedShakib-645/LEARNIX-AI) |
   | Student Record System | Web-based CRUD app with HTML, CSS and JavaScript | [Code](https://github.com/MohammedShakib-645/student-record-system) · [Live](https://mohammedshakib-645.github.io/student-record-system/) |
   | Calculator | Web calculator built with HTML, CSS and JavaScript | [Code](https://github.com/MohammedShakib-645/calculator) · [Live](https://mohammedshakib-645.github.io/calculator/) |
+  | Exam Strategy Simulator | Python Flask web app — calculates exam score + strategy tips | [Code](https://github.com/MohammedShakib-645/exam-strategy-simulator) |
   | Portfolio Website | Personal portfolio live on GitHub Pages | [Live](https://MohammedShakib-645.github.io/portfolio) |
 
   ---
