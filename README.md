@@ -32,7 +32,7 @@ About Me
   |---------|-------------|-------|
   | GestureVision_X | Real-time hand gesture recognition using Python and OpenCV | [View](https://github.com/MohammedShakib-645/GestureVision_X) |
   | LEARNIX-AI | AI-powered student helper platform | [View](https://github.com/MohammedShakib-645/LEARNIX-AI) |
-  | Student Record System | Console app in C — full CRUD with file handling | [Code](https://github.com/MohammedShakib-645/student-record-system) |
+  | Student Record System | Web-based CRUD app with HTML, CSS and JavaScript | [Code](https://github.com/MohammedShakib-645/student-record-system) · [Live](https://mohammedshakib-645.github.io/student-record-system/) |
   | Calculator | Web calculator built with HTML, CSS and JavaScript | [Code](https://github.com/MohammedShakib-645/calculator) · [Live](https://mohammedshakib-645.github.io/calculator/) |
   | Portfolio Website | Personal portfolio live on GitHub Pages | [Live](https://MohammedShakib-645.github.io/portfolio) |
 
