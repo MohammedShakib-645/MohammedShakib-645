@@ -28,13 +28,12 @@ About Me
 
   Featured Projects
 
-  | Project | Description | Link |
-  |---------|-------------|------|
-  | GestureVision_X | Real-time hand gesture recognition using Python and OpenCV | [View](https://github.com/MohammedShakib-645/gestureVision_X) |
+  | Project | Description | Links |
+  |---------|-------------|-------|
+  | GestureVision_X | Real-time hand gesture recognition using Python and OpenCV | [View](https://github.com/MohammedShakib-645/GestureVision_X) |
   | LEARNIX-AI | AI-powered student helper platform | [View](https://github.com/MohammedShakib-645/LEARNIX-AI) |
-  | Data Structures in C | Stack Queue and Linked List implementations | [View](https://github.com/MohammedShakib-645/ds-using-c) |
+  | Calculator | Web calculator built with HTML, CSS and JavaScript | [Code](https://github.com/MohammedShakib-645/calculator) · [Live](https://mohammedshakib-645.github.io/calculator/) |
   | Portfolio Website | Personal portfolio live on GitHub Pages | [Live](https://MohammedShakib-645.github.io/portfolio) |
-  | PPS C Programs | Programming Problem Solving programs in C | [View](https://github.com/MohammedShakib-645/pps-c-programs) |
 
   ---
 
