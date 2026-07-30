@@ -45,6 +45,8 @@ About Me
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&bg_color=0D1117&color=00E5FF&line=00B8D4&point=80DEEA&area=true&area_color=0097A7&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&area_color=1DE9B6&hide_border=true)
+
   ---
 
   Open to internships, collaborations and learning opportunities!
