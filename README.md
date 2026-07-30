@@ -43,7 +43,7 @@ About Me
 
  ## 📈 GitHub Activity Graph
 
-[![Mohammed Shakib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&bg_color=0d1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true)](https://github.com/MohammedShakib-645)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&bg_color=0D1117&color=A5D6A7&line=81C784&point=C8E6C9&area=true&area_color=66BB6A&hide_border=true)
 
   ---
 
