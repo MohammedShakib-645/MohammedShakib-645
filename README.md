@@ -41,7 +41,7 @@ About Me
 
   GitHub Activity
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MohammedShakib-645&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=MohammedShakib-645&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
   ---
 
