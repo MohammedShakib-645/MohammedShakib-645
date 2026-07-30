@@ -41,7 +41,7 @@ About Me
 
   GitHub Activity
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&theme=minimal&hide_border=true&area=true)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&theme=github)](https://github.com/MohammedShakib-645)
 
   ---
 
