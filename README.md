@@ -41,11 +41,9 @@ About Me
 
   GitHub Activity
 
- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&bg_color=0d1117&color=ff6b6b&line=4ade80&point=facc15&area=true&area_color=22c55e&title_color=38bdf8&hide_border=true)
+ ## 📈 GitHub Activity Graph
 
- <img src="https://ghchart.rshah.org/39d353/MohammedShakib-645" alt="GitHub Contribution Chart"/>
-
- <img src="https://streak-stats.demolab.com?user=MohammedShakib-645&theme=github-dark&hide_border=true"/>
+[![Mohammed Shakib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&bg_color=0d1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true)](https://github.com/MohammedShakib-645)
 
   ---
 
