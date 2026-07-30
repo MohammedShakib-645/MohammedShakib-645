@@ -45,6 +45,8 @@ About Me
 
  <img src="https://ghchart.rshah.org/39d353/MohammedShakib-645" alt="GitHub Contribution Chart"/>
 
+ <img src="https://streak-stats.demolab.com?user=MohammedShakib-645&theme=github-dark&hide_border=true"/>
+
   ---
 
   Open to internships, collaborations and learning opportunities!
