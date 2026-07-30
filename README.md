@@ -41,7 +41,7 @@ About Me
 
   GitHub Activity
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&theme=github)](https://github.com/MohammedShakib-645)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MohammedShakib-645&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
   ---
 
