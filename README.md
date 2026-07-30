@@ -41,7 +41,9 @@ About Me
 
   GitHub Activity
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=MohammedShakib-645&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  ## 📈 GitHub Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)](https://github.com/MohammedShakib-645)
 
   ---
 
