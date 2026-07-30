@@ -41,7 +41,7 @@ About Me
 
   GitHub Activity
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=MohammedShakib-645&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=MohammedShakib-645&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
   ---
 
