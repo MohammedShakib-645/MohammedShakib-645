@@ -43,6 +43,8 @@ About Me
 
  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&bg_color=0d1117&color=ff6b6b&line=4ade80&point=facc15&area=true&area_color=22c55e&title_color=38bdf8&hide_border=true)
 
+ <img src="https://ghchart.rshah.org/39d353/MohammedShakib-645" alt="GitHub Contribution Chart"/>
+
   ---
 
   Open to internships, collaborations and learning opportunities!
