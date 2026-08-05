@@ -40,11 +40,9 @@ About Me
   ---
 
   GitHub Activity
-## 📈 GitHub Activity
+  ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedShakib-645&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=MohammedShakib-645&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://raw.githubusercontent.com/MohammedShakib-645/MohammedShakib-645/output/github-contribution-graph-dark.svg" width="100%" />
 </p>
-
   Open to internships, collaborations and learning opportunities!
