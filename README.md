@@ -40,9 +40,9 @@ About Me
   ---
 
   GitHub Activity
-  ## 📈 GitHub Activity
+  <h2>📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedShakib-645/MohammedShakib-645/output/github-contribution-graph-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/MohammedShakib-645/MohammedShakib-645/output/github-contribution-grid-snake.svg" width="100%">
 </p>
   Open to internships, collaborations and learning opportunities!
