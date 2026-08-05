@@ -40,8 +40,8 @@ About Me
   ---
 
   GitHub Activity
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&hide_border=true)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&theme=github-compact&hide_border=true)](https://github.com/MohammedShakib-645)
 
   Open to internships, collaborations and learning opportunities!
