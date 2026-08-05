@@ -42,6 +42,9 @@ About Me
   GitHub Activity
 ## 📈 GitHub Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib-645&theme=github-compact&hide_border=true)](https://github.com/MohammedShakib-645)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedShakib-645&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=MohammedShakib-645&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
   Open to internships, collaborations and learning opportunities!
